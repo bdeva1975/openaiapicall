@@ -20,7 +20,7 @@ How to Run the Program
 1.	Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/bdeva1975/openaiapicall.git
 2.	Navigate to the project directory:
 bash
 Copy code
